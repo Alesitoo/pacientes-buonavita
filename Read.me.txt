@@ -1,0 +1,2 @@
+Bienvenido/a 
+Este es mi segundo proyecto grande en donde me centro mas en pracyicar  y perfeccionar mi javascript. 
